@@ -1,4 +1,4 @@
 #!/bin/bash
 
 DATE=$(date +%F+%T)
-mkdir "dir-$DATE"
+mkdir "0-init-act-$DATE"
